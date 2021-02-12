@@ -18,3 +18,5 @@ for i in range(10):
     index = random.randrange(0, len(images))
     print(mndata.display(images[index]))
 
+# snooping around here bud?
+# no, I did not finish this project, school just started again
